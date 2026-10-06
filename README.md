@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c'est Pazhani-Swamy</h1>
 
 <p align="center">
-   Je suis <b>Architect cloud & Devops Junior </b>
+   Je suis <b>Architect cloud & Devops Engineer</b>
 </p>
 
 ---
