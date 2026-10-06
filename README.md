@@ -6,11 +6,12 @@
 
 ---
 
-### 🚀 À propos de moi
+### À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets autour de **Terraform**, **Kubernetes**, **Cloud** et **DevSecOps**
-- 🌱 En apprentissage continu sur l'**infrastructure as code**, le **CI/CD** et la **sécurité applicative**
-- 📫 Comment me contacter : *https://www.linkedin.com/in/pazhani-swamy-saminathan-869a67254/*
+- Je travaille actuellement sur des projets autour de **Terraform**, **Kubernetes**, **Cloud** et **DevSecOps**
+- En apprentissage continu sur l'**infrastructure as code**, le **CI/CD** et la **sécurité applicative**
+- Je crée des repo par technologie et solution qui me permet d'apprendre et de spécialisé dans mon travail qui sera publique donc vous pourriez aussi apprendre
+- Comment me contacter : *https://www.linkedin.com/in/pazhani-swamy-saminathan-869a67254/*
 
 ---
 
