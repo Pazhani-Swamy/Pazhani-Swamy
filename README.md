@@ -33,7 +33,23 @@
 |---|---|---|
 | [Terraform_5SRC1](https://github.com/Pazhani-Swamy/Terraform_5SRC1) | Infrastructure as Code with Terraform | HCL |
 | [esgi-devsecops](https://github.com/Pazhani-Swamy/esgi-devsecops) | Course artifacts from the DevSecOps module at ESGI | HCL |
-| 🚧 AWS DevOps Lab *(coming soon)* | 12-week hands-on project: EKS, Terraform, GitOps, CI/CD, observability and security on AWS, built on ephemeral infrastructure and documented in public | AWS, Terraform, Kubernetes, ArgoCD |
+| 🚧 DevOps & Cloud Learning Path *(coming soon)* | A progressive, hands-on path from Docker to AI-assisted infrastructure: each stage teaches one skill by building a real-world project, with several tools compared per topic | Docker, GitLab CI / GitHub Actions, Terraform, Ansible, AWS, EKS, ArgoCD, Prometheus/Grafana, Trivy, AI |
+
+---
+
+### 🧭 Currently working on
+
+A public learning path on AWS, built stage by stage and documented as I go:
+
+1. **Account baseline:** secure foundations, budgets, audit trail
+2. **Containers and CI/CD:** Docker, GitLab CI and GitHub Actions compared
+3. **Infrastructure as Code:** Terraform, CloudFormation, Ansible
+4. **Cloud architecture:** containers vs serverless, measured and compared
+5. **Kubernetes and GitOps:** EKS, ArgoCD, Helm
+6. **Observability and reliability:** Prometheus, Grafana, Loki, game days
+7. **DevSecOps and identity:** scanning, signing, policies, keyless access
+8. **AI on infrastructure:** AI-assisted reviews, diagnostics and incident summaries, with strict guardrails
+9. **Platform capstone:** multi-account landing zone and a full rebuild from scratch
 
 ---
 
