@@ -9,7 +9,7 @@
 <h3 align="center">Cloud Architect &amp; DevOps Engineer</h3>
 
 <p align="center">
-  I work and learn around <b>Terraform</b>, <b>Kubernetes</b>, <b>Cloud</b> &amp; <b>DevSecOps</b><br>
+  I work and learn around <b>Devopsecops</b>, <b>Infrastructure</b>, <b>Cloud</b> &amp; <b>Learning IA</b><br>
   <a href="https://www.linkedin.com/in/pazhani-swamy-saminathan-869a67254/">LinkedIn</a>
 </p>
 
